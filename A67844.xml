@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second friendly epistle to Mr. George Keith and the reformed Quakers who are now convinced that water baptism is an ordinance of Christ ... / by the reformed Quakers old friend Trepidantium Malleus.</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67844</idno>
+            <idno type="STC">Wing Y86</idno>
+            <idno type="STC">ESTC R34119</idno>
+            <idno type="EEBO-CITATION">13807836</idno>
+            <idno type="OCLC">ocm 13807836</idno>
+            <idno type="VID">101998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1055:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second friendly epistle to Mr. George Keith and the reformed Quakers who are now convinced that water baptism is an ordinance of Christ ... / by the reformed Quakers old friend Trepidantium Malleus.</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Marshal ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Trepidantium Malleus is a pseudonym for Samuel Young.</note>
+                  <note>Imperfect: pages stained and tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  History --  17th century.</term>
+               <term>Baptism --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101998:1" rendition="simple:additions"/>
+            <p>A Second Friendly Epiſtle TO Mr. <hi>George Keith,</hi> AND <hi>The Reformed Quakers.</hi>
+            </p>
+            <p>Who are now Convinc'd, That Water Baptiſm is an Ordinance of Chriſt, to continue to the End of the World.</p>
+            <p>But are Enquiring about the Mode, and Form of Adminiſtration; Whe<g ref="char:EOLhyphen"/>ther by <hi>Effuſion</hi> or <hi>Plunging.</hi>
+            </p>
+            <p>Wherein is proved, (with the Approbation of ſome of the moſt Learned Divines in <hi>London</hi>)
+<list>
+                  <item>I. That <hi>John</hi> the Baptiſt, and <hi>Peter</hi> the Apo<g ref="char:EOLhyphen"/>ſtle, declare that they Plunged not.</item>
+                  <item>II. That Plunging is contrary to the Doctrin of Baptiſm; and therefore is no lawful Baptiſm.</item>
+                  <item>III. That if Plunging were a Duty, and com<g ref="char:EOLhyphen"/>manded by Chriſt, our Brethren the Anaba<g ref="char:EOLhyphen"/>ptiſt practiſe it not, and ſo are Self-condemn<g ref="char:EOLhyphen"/>ed on their own Principles.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Humbly offer'd to the Conſideration of all the</hi> Baptized <hi>Congregations in</hi> England; <hi>and alſo of the</hi> Dipt <hi>Ones.</hi>
+            </p>
+            <p>By the Reformed Quakers old Friend, <hi>Trepidantium Malleus.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Marſhal,</hi> at the <hi>Bible</hi> in <hi>Grace-Church Street.</hi> 1700.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101998:2"/>
+            <head>BOOKS Written by the Author of this Treatiſe; and Sold by <hi>John Marſhal,</hi> at the <hi>Bible</hi> in <hi>Grace-Church Street.</hi>
+            </head>
+            <p>
+               <hi>WIlliam Pen</hi> and the Quakers Impoſtors, or Apoſtates, which they pleaſe; proved from their avow'd Principles, and Contrary Practices. Price <hi>1 <abbr>s.</abbr>
+               </hi>
+            </p>
+            <p>The <hi>Boſtonian</hi> Quakers, Dunces, Lyars, and Slanderers proved out of <hi>George Fox</hi>'s Journal, and other Scriblers. Price <hi>6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A Reprimand for the Author of a Libel, intitu<g ref="char:EOLhyphen"/>led, <hi>Mr.</hi> Keith <hi>an Apoſtate.</hi> Price <hi>4 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A Friendly Epiſtle to Mr. <hi>George Keith,</hi> the Reformed Quaker. Price <hi>6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>Three Contending Brethren Reconciled, and made Friends, <hi>Mr.</hi> Lobb, <hi>Mr.</hi> Alſop, <hi>Mr.</hi> Williams.</p>
+            <p>A Cenſure of three Scandalous Pamphlets.</p>
+            <p>The firſt New-Years Gift for the <hi>Antinomi<g ref="char:EOLhyphen"/>ans.</hi>
+            </p>
+            <p>The ſecond and laſt New-Years Gift for the <hi>An<g ref="char:EOLhyphen"/>timonians;</hi> with Animadverſions on the Conver<g ref="char:EOLhyphen"/>ſion of a Jew, Salom <hi>Ben. Sholomah;</hi> With a large Epitaph on the late Reverend and Learned Mr. <hi>Steph. Lobb.</hi> Price <hi>6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A friendly Conference between the Suffering Saints for Conſcience ſake, the Jacobites, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Vindiciae Anti-Baxterianae:</hi> Or, Some Ani<g ref="char:EOLhyphen"/>madverſions on a Book, intituled <hi>Reliquiae Bax<g ref="char:EOLhyphen"/>terianae;</hi> Or, The Life of Mr. <hi>Richard Baxter.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:101998:2"/>
+            <head>A Second Friendly Epiſtle TO Mr. <hi>George Keith,</hi> AND THE Reformed QUAKERS, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>BRETHREN,</salute>
+            </opener>
+            <p>I Shall not trouble my ſelf, nor you, much a<g ref="char:EOLhyphen"/>bout the Subjects of Baptiſm now; Whe<g ref="char:EOLhyphen"/>ther Infants, or the Adult only, are to be Baptiz'd: Becauſe you are Mon and Women, and grown up Perſons, to whom I now apply my ſelf; and who are with too great Acrimo<g ref="char:EOLhyphen"/>ny, and very ſevere Cenſures, contending about the manner of Baptizing. We who (bleſſed be God) own, and our purblind Brethren who diſ<g ref="char:EOLhyphen"/>own, Infant Baptiſm, are agreed as one Man in this, That all Unbaptized Perſons, young or old, ought to be Baptized. I now bring (I hope) not a drop of Oil, but much Water to quench theſe Flames. It is a common Cant among too many
+<pb n="4" facs="tcp:101998:3"/>paper-headed Men, <hi>That none ſhould be Baptized till they come to the Years of Diſcretion;</hi> but if we read ſome of their Scrible, and hear ſome of their Chats, would they had ſtay'd till then, the Controverſy might the ſooner be ended.</p>
+            <p>According to your deſire, My worthy Friend Mr. <hi>Keith,</hi> I appear to prove, Not ſo much-that the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (to Baptize) ſignifys to Plunge only; (they are in a Dream that affirm it, and with me it is an idle Queſtion;) but other things. Yet to do our Plungers (vulgar<g ref="char:EOLhyphen"/>ly ſo) right and equity, I do acknowledge, that one place urged againſt them by (otherwiſe lear<g ref="char:EOLhyphen"/>ned) Pedobaptiſts is ignorantly, unlearnedly, and fooliſhly urged, <hi>Mark</hi> 4. the firſt part of the 7th Ver.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> And when they came from the Market they eat not, we read, and that congruouſly, except <hi>they waſh.</hi> Theſe Men Criticiſe, except they are Waſh'd or Baptiz'd; <hi>For,</hi> ſay they, <hi>the Word is the Paſſive Voice, not Active.</hi> O miſe<g ref="char:EOLhyphen"/>rable <hi>Grecians!</hi> It is neither; but the <hi>Mean Voice;</hi> the firſt Aoriſt of the <hi>Subjunctive Mood</hi> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the firſt Future of the <hi>Indica<g ref="char:EOLhyphen"/>tive.</hi> Yet I acknowledge other Places well urged by theſe Lights, as <hi>Hebr.</hi> 9.11. <hi>There were,</hi> ſays St. <hi>Paul,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>among the Jews, many Waſhings or Baptiſms;</hi> and among the reſt, <hi>Sprinkling with Blood.</hi> Now if Sprinkling with Blood were a Baptiſm. Sprinkling with Water is ſo. In the 8th of <hi>Numbers,</hi> and in the 19th Chap. of that Book, they were ſaid <hi>to be Clean, by Sprinklings on them;</hi> and thoſe Sprinklings were ſome of their Waſhings or Baptiſms.
+<pb n="5" facs="tcp:101998:3"/>Alſo thoſe Worthies do well and unanſwerably urge, <hi>Mark</hi> 4.7. the latter part of that Verſe; where we read of the Baptizing of Beds and Boards, <hi>&amp;c.</hi> were they Waſh'd or Baptiz'd by being plunged into Water, or Water poured on them? But there is one place, which our Eagle Ey'd Men urge, tho' ſome too often in this Controverſy forget it, that doth knock this Di<g ref="char:EOLhyphen"/>ſpute in the Head. <hi>Luke.</hi> 11.38. When the Phariſee invited Chriſt to Dine with him, He wonder'd,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that he was not Waſh'd or Baptiz'd before Dinner. Did he won<g ref="char:EOLhyphen"/>der that a Man he brought juſt before into his Houſe, had not been plunged all over before he ſate down to Meat? No, but that he did, not what is expreſſed elſe<g ref="char:EOLhyphen"/>where, waſh his Hands before Dinner. Now this Argument, I dare aver, is Irrefragable. If a Man may be ſaid to be Baptized, when his Hands only were waſh'd, he may be ſaid to be Baptized when his Face only is waſh'd: Is there any Propoſition in <hi>Euclid</hi> more evident? To ſay this is Synecdochical, and ſo f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as they were Baptiz'd (or Waſh'd) they were Baptized. Why Sirs, are you Men? Will not this Anſwer ſerve us, as well as you? Away with ſuch Childiſh Sub<g ref="char:EOLhyphen"/>terfugies (they waſht Hands by pouring). 2 <hi>K.</hi> 3.11. As great Folly is it to tell us, with inflexible confidence, That all Criticks in their Lexicons and Comments tell us, that the word <hi>Baptize,</hi> fignifys only to Plunge or Dip. Were it true, as it is notoriouſly falſe, I cared not, when ſa<g ref="char:EOLhyphen"/>cred Writings tell us ſo plainly the contrary, as if written with a Sun Beam, and every one that
+<pb n="6" facs="tcp:101998:4"/>can underſtand his <hi>Greek</hi> Teſtament, may run and read it. I am even Sick of any Queſtion a<g ref="char:EOLhyphen"/>bout this; and crave Excuſe I have taken any Notice of it. My Work to you, Good Mr. <hi>Keith,</hi> and the Reformed Quakers, and to all the Bap<g ref="char:EOLhyphen"/>tized Congregations in <hi>England</hi> (and Dipt ones too) is to prove.</p>
+            <p>
+               <hi>First,</hi> That <hi>John</hi> the Baptiſt, and <hi>Peter</hi> the Apoſtle, ſolemnly declare to all they Baptized, to all the Spectators, and by them to us, and to all Men to the end of the World, That when they Baptized ſuch a vaſt Concourſe, and ſo ma<g ref="char:EOLhyphen"/>ny Thouſands, that they plunged not a Man of them.</p>
+            <p>
+               <hi>Secondly,</hi> That therefore Plunging is contrary to the Doctrine of Baptiſm, and is no lawful Baptiſm; but a Human or Diabolical Invention, a Breach, a notorious Breach, an intolerable Breach of the ſixth and ſeventh Commandment, and to be abhor'd, not only by all ſerious Chri<g ref="char:EOLhyphen"/>ſtians, but ſober Men and Women.</p>
+            <p>
+               <hi>Thirdly,</hi> That if Plunging were a Duty, and a Command of Chriſt, our Dippers practice it not, but are Tranſgreſſors as well as we, <hi>hardly doing their</hi> Work by halves; <hi>And this will we do, if God permit.</hi>
+            </p>
+            <p n="1">I. That <hi>John</hi> the Baptiſt, and <hi>Peter</hi> the A<g ref="char:EOLhyphen"/>poſtle, declare, They Plunged not when they Baptized.</p>
+            <p>
+               <hi>Luke</hi> ſays,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Luke</hi> 3.16. <hi>John</hi> ſaid, <hi>I Baptize you with Water.</hi> So we well and truly, and gramatically read the Text, <hi>I Baptize you with Water; He that cometh after me,</hi> ſays the ſame
+<pb n="7" facs="tcp:101998:4"/>holy Mouth and golden Oracle,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>ſhall Baptize you with the Holy Ghoſt, and with Fire:</hi>
+            </p>
+            <p>Now I thus Argue:</p>
+            <p n="1">1ſt, He that ſaith, He Baptizeth, ſtrickly and properly, with Water; doth here declare, He Plungeth not into <hi>Water.</hi> Is it Senſe thus to ſay, I plunge you <hi>with</hi> Water? Now <hi>Luke</hi> leaves out the Prepoſition (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) in this Verſe; therefore I cite this place principally. Thus this great Schollar, and Grecian, and beloved Pllyſician, I have obſerved, doth in this his Goſpel, and alſo in his <hi>Acts</hi> of the Apoſtles, <hi>Acts</hi> 1.5. And he brings in <hi>Peter</hi>'s Saying, about the Baptiſm of <hi>Cornelius, with Water,</hi> without any Prepoſition, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> without <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>Acts</hi> 11.16. Now here <hi>Peter</hi> and <hi>John</hi> embrace each other, both diſown here Plunging. Who can conſtrue this <hi>Greek</hi> Sen<g ref="char:EOLhyphen"/>tence, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>I Plunge you with Wa<g ref="char:EOLhyphen"/>ter?</hi> No, but as we do, and they too, <hi>I Baptize you with Water.</hi> Now <hi>Luke</hi> wrote good <hi>Greek,</hi> as well as <hi>Matthew,</hi> that puts in the Prepoſition (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>); yet he, and others, cannot be read, <hi>I Bap<g ref="char:EOLhyphen"/>tize you</hi> in <hi>Water;</hi> for this is common for <hi>with,</hi> to give but one pregnant Example: If any be ſo weak as to doubt it, <hi>Epheſ.</hi> 6.2. <hi>Honour thy Father and thy Mother, which is the firſt Com<g ref="char:EOLhyphen"/>mandment</hi> with <hi>Promiſe;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſo we well and truly read it. Not the firſt Com<g ref="char:EOLhyphen"/>mandment <hi>in</hi> the Promiſe, but <hi>with</hi> Promiſe; for the Commandment was not in the Promiſe, but the Promiſe in the Commandment. But this is ſo common in the <hi>Greek</hi> Tongue, that no Man that under<g ref="char:EOLhyphen"/>ſtands
+<pb n="8" facs="tcp:101998:5"/>this rich and copious Language, can doubt it. But ſuppoſe the bare Phraſe by it ſelf were not ſo clear, yet it becomes ſo by its connexion with the next words; and therefore I put in <hi>here</hi> before, for greater Security. Now, as <hi>John</hi> ſays, <hi>I indeed Baptize you with Water; He that cometh after me, is mightier than I, the Latchet of whoſe Shoes I am unworthy to unlooſe; the ſame ſhall Baptize you with the Holy Ghoſt and with Fire.</hi>
+            </p>
+            <p>I hence Argue thus:</p>
+            <p n="2">II. <hi>John</hi> ſo Baptized with Water, as Chriſt with the Holy Ghoſt and with Fire: and Chriſt ſo Baptized with the Holy Ghoſt and with Fire, as <hi>John</hi> Baptized with Water.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Now the Propoſition (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) is always put in here; yet this cannot be read <hi>in</hi> or <hi>in<g ref="char:EOLhyphen"/>to,</hi> but <hi>with</hi> the Holy Ghoſt and with Fire. Now let us turn to <hi>Acts</hi> 2.1, 2, 3, 4, 5. ver. <hi>&amp;c.</hi> In the days of Pentecoſt was this Promiſe fulfill'd. And I pray all to lay a<g ref="char:EOLhyphen"/>ſide Paſſion, and read ſoberly, and ſee what Light that may give in this caſe about the man<g ref="char:EOLhyphen"/>ner of <hi>John</hi>'s Baptiſin, whether by Effuſion or Plunging. The Houſe was fill'd with Wind, but when? When they were together in one place, with one accord. Now obſerve, The Wind was poured on them, not they drove or plunged into it; and did this Wind reach any more than their Faces, or viſible Parts? Our Plungers tell us, <hi>The Water muſt touch all.</hi> The Fire lighted on them, or ſate on them, viſibly. Obſerve, they were not thrown into the Fire; were they? I no more believe <hi>John</hi> threw his
+<pb n="9" facs="tcp:101998:5"/>Hearers into the Water, than Chriſt, in the days of Pentecoſt, threw thoſe Believers into the Fire. But that which puts the matter out of all doubt with me, is <hi>Peter</hi>'s citing the Prophecy of <hi>Joel</hi> with a <hi>Then was fulfil'd;</hi> I will <hi>pour of my Spirit,</hi> is mentioned twice,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>on your Sons and Daughters; your young Men ſhall ſee Viſions, and your old Men ſhall dream Dreams.</hi> (This is another Proof, by the way, that Baptize ſignifys to pour.)</p>
+            <p>Now, you that are Baptized, and you that are Dipt, I pray you, I adjure you, ſoberly, and in the fear of God, laying aſide Pride, Wrath, or Conſidence, compare <hi>Mat.</hi> 3.11, and <hi>Acts</hi> 2.17. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead carefully, The Promiſe and its Per<g ref="char:EOLhyphen"/>formance, the Sign, and this Thing ſignified, <hi>John</hi>'s Literal Baptiſin, and Chriſt's Spiritual Baptiſm, and you may eaſily know, how <hi>John</hi> Baptized with Water, as Chriſt Baptized with the Holy Ghoſt, and with Fire: And this is ſaid plainly (as plain as words can make it) That it was done by Effuſſion or Pouring, not by Im<g ref="char:EOLhyphen"/>merſion or Plunging, I may ſay as the Prophet, <hi>Who is Blind as my Servant? if you ſee it not.</hi> For</p>
+            <p n="1">1. Here is an excellent Analogy: How im<g ref="char:EOLhyphen"/>proper had it been for <hi>John</hi> to fay, I Plunge you into Water, and Chriſt ſhall pour the Spirit and Fire on you. Therefore in <hi>John</hi>'s Baptiſm was there an Application of Water to the Perſons; not the Perſons to the Water.</p>
+            <p n="2">2. We are not ſaid to be applied to the Blood of Chriſt; but the Blood of Chriſt to be appli<g ref="char:EOLhyphen"/>ed to us: Nor to be immerſed into the Graces of the Spirit; but they poured on us. There<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:101998:6"/>I take their Dipping to be Unlawful, as well as Plunging (the Difference I ſhall ſoon diſcover). When we are ſaid to be Baptized <hi>in<g ref="char:EOLhyphen"/>to one Spirit,</hi> it ſpeaks only of a <hi>Relation,</hi> not Manner of a Thing; as when a Man is ſaid to be Baptized <hi>into</hi> ſuch a Church, by ſome Men; tho by the way, I underſtand not Mens be<g ref="char:EOLhyphen"/>ing Baptized into ſuch a particular Church, and ſo ordain'd to ſuch a particular Church only; when they are Members of another Church, muſt they have another Baptiſm? And when ſome are Paſtors on removal, muſt they have another Ordination? Into what particular Church was <hi>Paul,</hi> the Eunuch, or Jaylor, Bap<g ref="char:EOLhyphen"/>tized into? But not to digreſs.</p>
+            <p>But now the Canons are mounted up, and roar. Many Objections ſome think cannot be Anſwered about my Aſſertion of <hi>John</hi> s Bap<g ref="char:EOLhyphen"/>tiſm. It is Objected,</p>
+            <p n="1">
+               <hi>1ſt, It is proper to ſay, I</hi> Overwhelm <hi>you with Water, if not, I</hi> Plunge <hi>you with Water; and the word</hi> Baptize, <hi>may be tranſlated to</hi> Overwhelm.</p>
+            <p>Yes, if I pour Water on a Man, or cover him this way with it, I <hi>Overwhelm</hi> him <hi>with</hi> Wa<g ref="char:EOLhyphen"/>ter; but if I throw him into the Water (and not the Water on him) I Overwhelm him <hi>in</hi> or <hi>into</hi> the Water.</p>
+            <p n="2">
+               <hi>2dly,</hi> But ſay others, John <hi>Baptized</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>into</hi> ordain, <hi>Mark.</hi> 1.9.</p>
+            <pb n="11" facs="tcp:101998:6"/>
+            <p> But <hi>Mark</hi> before ver. 5. and <hi>Matthew</hi> ſay in <hi>Jordain,</hi> as we read and that pro<g ref="char:EOLhyphen"/>perly. <hi>John</hi> I hope went into <hi>Jor<g ref="char:EOLhyphen"/>dain,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> was he plunged too? This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is many times only <hi>in,</hi> not <hi>into, Matth.</hi> 28.19, 20. <hi>Go you therefore, and teach all Na<g ref="char:EOLhyphen"/>tions, Baptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt. In</hi> the Name, not <hi>into,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> with Mr. <hi>Ball</hi>'s (Catechiſm) leave; and the Quakers Paraphraſe, to prove the Bap<g ref="char:EOLhyphen"/>tiſm to be Spiritual. But is Spiritual Baptiſm the Work of Man? No; but of the Spirit: And Water Baptiſm is the Work of Man. But where is Spiritual Baptiſm, or Sanctifying Work ſaid to be <hi>into</hi> the Name of God? O <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard Phraſe! Other places may be urged, when Occaſion is. <hi>Mark</hi> 1.9. ſhews <hi>John</hi> Baptized <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot Chriſt when in <hi>Galilee;</hi> but when he came <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Jordain.</hi>
+            </p>
+            <p n="3">3. <hi>But that which is accounted the ſtrongeſt Effort <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, That many Pedobaptiſts grant</hi> John <hi>Plunged; and that ſo did the Primitive Chriſtians a long <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me.</hi>
+            </p>
+            <p>Firſt, Not ſo many ſay ſo as you imagin.</p>
+            <p>Secondly, Some think when they read Anci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Hiſtory, of them that Baptized in ſuch a River, that they Plunged: They that ſo miſtake Scripture, no wonder if they do Eccle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſtical Hiſtory. I once liv'd in a Town where <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a River, and there, as is ſaid of <hi>Enon,</hi> were <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:101998:7"/>many Waters,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> no Convenience was there to Plunge; as Gecgraphers ſay, Is not in <hi>Enon.</hi> I often thought when I walked by the River, which was not ſeldom, that had I been the Inſtrument in the Hand of God, or any other been ſo, and they all had been baptized by Effuſion; I doubt not, we had all gone down into that River for our Convenience, and yet never have thought of ſuch a naſty Trick as Plunging. Yet ſome would have ask'd, What did you do there? As Fooliſh to ask, What did <hi>John</hi> do in <hi>Jordain?</hi> I pray did you never go into the Water for no other end, but to be Plunged there (not to Swim with your Heads above Water) nor to waſh only your Feet? I pray what had <hi>John</hi> to do in the Wilderneſs? <hi>Go there, eat Locuſt and wild Honey;</hi> as well as chooſe a River for Baptiſm In neither was <hi>John</hi> to be a Preſident for us.</p>
+            <p n="3">III. The Tranſmarine Anabaptiſt, though ſo fierce againſt Infant-baptiſm, yet are one with me in this point; and ſo ſome here in <hi>England</hi> The <hi>Dutch</hi> Anabaptiſt lately wrote to the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> ones, to know, Why they Plunge. — For they diſown it, and plead for pouring, as I do May not I as well urge their Authority againſt them, as they ſome Commentators againſt me.</p>
+            <p n="4">IV. I cared not if many more granted <hi>John</hi> Plunged, if I prove he declares he did not: I believe <hi>John</hi>'s Words, not their horrid Expoſi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I therefore ſoberly (not as a Doubter, as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many things; O that all were as clear!) I ſay I ſoberly ask, without intemperate Heat
+<pb n="13" facs="tcp:101998:7"/>but with burning Zeal mixed with Love.</p>
+            <p n="1">1. What were <hi>John</hi>'s and <hi>Peter</hi>'s Arms and Legs made of? Of Fleſh and Bone, or Wood and Stone, to ſtand, and embrace, and plunge <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o many? <hi>Mat.</hi> 3.5. All <hi>Jeruſalem,</hi> all <hi>Judea,</hi> all the Regions round about <hi>Jordain,</hi> were bap<g ref="char:EOLhyphen"/>tized: So when Three Thouſand were baptized by <hi>Peter</hi> in one Day, he had not much time to do it in, conſidering his Antecedent and Conſe<g ref="char:EOLhyphen"/>quent Work. For my part, I ſhould have read the Hiſtory of <hi>John</hi>'s and <hi>Peter</hi>'s Baptiſm a thou<g ref="char:EOLhyphen"/>ſand times over, before I ſhould have thought of ſuch an <hi>ill lookt thing</hi> as <hi>Plunging,</hi> had I not heard of ſome that dreamt of it. Either they were plunged with their Cloaths on; (if ſo, then indeed had they lookt like Men full of <hi>new Wine:</hi> All muſt have ſmil'd, and I think the graveſt of themſelves.) Or they were plunged with their Cloaths off: They were then guilty of Immodeſty. <hi>Peter</hi>'s Converts never thought of being baptized when they came out, and ſo brought no change of Cloaths; if they had, there could be no putting on, without putting off. What! Men and Women ſeen naked before all Perſons, young and old? Wet Cloaths next to the Body is dangerous, in all Places, to moſt Perſons; but I ſuppoſe their Bodies were made of, <hi>no Man knows what.</hi> Did Chriſt indeed de<g ref="char:EOLhyphen"/>liver from the Yoke of Bondage, and take away ſo many eaſy things comparitavely to Plunging, and bring under this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke? Bread and Wine are things grave and decent in the other Sacrament, and, I doubt not, ſo muſt Waſhing be in this, without change of Cloaths, without ſtrong Li<g ref="char:EOLhyphen"/>quors,
+<pb n="14" facs="tcp:101998:8"/>to fortify againſt the Danger of a Go<g ref="char:EOLhyphen"/>ſpel Ordinance.</p>
+            <p n="4">4. Some others Object, <hi>There muſt be Plun<g ref="char:EOLhyphen"/>ging on another Account, if you have a Baptiſm that anſwers ſome of the ends of Baptiſm, that is not enough. <g ref="char:V">Ʋ</g>nleſs it anſwers all the ends of Bap<g ref="char:EOLhyphen"/>tiſm, it is not right. Now we are ſaid,</hi> Rom. 6.4. <hi>to be buried with Chriſt in Baptiſm.</hi>
+            </p>
+            <p n="1">1. Prove, if you can, that thoſe words have any Relation to the Form of Baptiſm; but to the Confeſſion of Sin, the Perſon baptiz'd made, ſee <hi>Mat.</hi> 3.6. Confeſſion of Sin, we are ſaid elſewhere to be <hi>dead</hi> with Chriſt, and <hi>riſen</hi> with Chriſt, where not a word is mentioned of Wa<g ref="char:EOLhyphen"/>ter Baptiſm; by which we underſtand <hi>Mortifi<g ref="char:EOLhyphen"/>cation</hi> and <hi>Vivification.</hi> Thus Men deny others Symbolical Signs, and yet make ſome to them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p n="2">2. Yet, were it ſo not to ſay what others have well done of the Jows way of Burials, (as we read of <hi>Joſeph</hi> of <hi>Arimathea, &amp;c.</hi>) our Form of Baptizing more repreſents a Burial than theirs.</p>
+            <p>When we bury a Man, do we drive him or plunge him into the Earth, or pour Earth up<g ref="char:EOLhyphen"/>on him? Compariſons run not on all four. I am under a Neceſſity of taking up this, and a ſew Paſſages more, I have written in other Books.</p>
+            <p>Pardon me, Reader, I uſe not to offend this way, I cannot help it this once.</p>
+            <pb n="15" facs="tcp:101998:8"/>
+            <p> When any Anabaptiſt goes down into the Wa<g ref="char:EOLhyphen"/>ter, I wiſh he would remember the words of God, by the Prophet, to them that went down into <hi>Egypt, Oh do not this abominable thing my Soul hates.</hi> This is a Breach of the ſixth and ſeventh Commandment, which forbids all Tem<g ref="char:EOLhyphen"/>ptations, Incentives, unneceſſary Actions that have a tendency to it (beſides the God and Man provoking Sin of ſome that deny their true Baptiſm)</p>
+            <p>What is the reaſon that more Frenehers a<g ref="char:EOLhyphen"/>mong the Anabaptiſts long profeſſing Religion, ſhould at laſt fall more before one particular Sin, than other Miniſters? As I have obſerved where Providence hath caſt me. I ſpeak not now of <hi>young Men,</hi> but Men of Years, I verily be<g ref="char:EOLhyphen"/>lieve, nay, I doubt it not, they got their Infe<g ref="char:EOLhyphen"/>ction by embracing the fair Sex: Would I were ſure Mr. <hi>T.</hi> got none of his there. Mrs. <hi>Roe</hi> of <hi>Briſtol,</hi> for Twenty Years or more, confeſſed to her Husband, to all Miniſters, and me among the reſt, and to good Mr. <hi>Fairclough</hi> (who men<g ref="char:EOLhyphen"/>tioned it, in my hearing, in the open Pulpit), That one of the firſt Plungers there at <hi>Baptiſt-Mill</hi> (for ſo is the place called) frequently lay with the Women he plunged; with her in par<g ref="char:EOLhyphen"/>ticular, which made her go up and down as a Terror to her ſelf. I call the great God to re<g ref="char:EOLhyphen"/>cord, I mention not this Story on any Deſign againſt the Anabaptiſt; but to cure them of this Evil, if there may be hope. I doubt not the Piety of many of them. He that had the Va<g ref="char:EOLhyphen"/>nity of writing himſelf lately <hi>Medicinae Doctor Academia Cantabrigienſis,</hi> to make himſelf look
+<pb n="16" facs="tcp:101998:9"/>bigger after the <hi>Portſmouth</hi> Weights, had deba<g ref="char:EOLhyphen"/>ſed themſelves to cope with him, talks like a lit<g ref="char:EOLhyphen"/>tle piece of Infallibility about Plunging. He is (I confeſs) a Man of Parts, that is to ſay, for a Taylor, or a <hi>Mandamus</hi> Doctor by a Popiſh King, who could make Taylors Quack-Phyſi<g ref="char:EOLhyphen"/>cians, as well as Coach-men Juſtices in ſome places. We are told, All the Ancients plun<g ref="char:EOLhyphen"/>ged; How long have ſome Men been acquain<g ref="char:EOLhyphen"/>ted with <hi>Lactantius, Origen, Socrates Schol. Euſebius,</hi> and other ancient Writers? I am ſor<g ref="char:EOLhyphen"/>ry for the Book of his Whoredoms and Drunk<g ref="char:EOLhyphen"/>eneſs, printed by a Dipper. I ſear D. <hi>R.</hi> got his Infection in the Water. Mr. <hi>Danvers</hi> (or if you will Mrs. <hi>Danvers</hi>) Collections may ſerve, ſome Men; or will <hi>Clark</hi>'s Lives ſerve the turn? who wanted ſomewhat elſe beſides a good Stile, and is unfit for the Learned. He leaves out re<g ref="char:EOLhyphen"/>markable Paſſages in Lives, and names trite ones. I pray, when <hi>Auſtin</hi> the Monk baptized Ten Thouſand in one Day, were they plunged all, ſo many Saxons, in the River <hi>Swall?</hi>
+            </p>
+            <p>I pray, Brethren, when you embrace young Maids and Women in the Water, remember one place of Scripture, which I will make good to be an excellent place againſt plunging ſuch Women, <hi>Lead us not into Temptation;</hi> and then I hope you will never thus go down there more.</p>
+            <p>My way is now plain to my ſecond Aſſertion.</p>
+            <p>
+               <hi>Second,</hi> That Plunging is contrary to the Do<g ref="char:EOLhyphen"/>ctrin of Baptiſm, and is no lawful Baptiſm. Is it true, that Baptiſm is a Waſhing with Water in the Name of the Father, <hi>Baptizatio aqua?</hi>
+               <pb n="17" facs="tcp:101998:9"/>Then not into Water-Baptiſm ſignifys a Sprink<g ref="char:EOLhyphen"/>ling with the Blood of Chriſt, a Waſhing of the Spirit, a pouring of it, <hi>&amp;c.</hi>
+            </p>
+            <p>I pray all Pedobaptiſts, when they baptize Perſons grown up, not to put their Heads into Baſons or Fonts; tho' I do not ſay, they that do it ſhould be baptized again; no, nor if plun<g ref="char:EOLhyphen"/>ged Head and Ears, for <hi>Quod fieri non dobet factum valet,</hi> but <hi>fiert non debet</hi> ſtill. I hope, by this time, I have convinced ſome of them, who have granted Plunging to be a lawful Ba<g ref="char:EOLhyphen"/>ptiſm, though not a neceſſary one. I ſay, it is not a lawful one; Plunging is not of God, I would be bound to make it good, that it a<g ref="char:EOLhyphen"/>mounts to a Demonſtration, or that which is next to it, That God never ſent ſuch Reformers of Reformed Churches, who <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>led to the beſt of Miniſters, Repent and be plunged, whoſe Whoredoms, Murders and Blaſphemies were the worſt acted under the Sun, as <hi>J.</hi> of <hi>Leyden,</hi> &amp;c.</p>
+            <p>I cannot but, with the higheſt Indignation imaginable, think of ſome Plungers, who ſhall tell us, Such Criticks of ours ſay, <hi>Baptizo</hi> ſigni<g ref="char:EOLhyphen"/>fys to plunge or dip, and there ſtop; when they tell us, Or other ways of Waſhing, and cite <hi>Mat.</hi> 3.11. for one. Oh! No Proteſtant would ſo ſerve a Romiſh Prieſt, nor perhaps a Romiſh Prieſt a Proteſtant. I could tell a woful Story, when ſome once appeal'd to <hi>Hollyock.</hi> Tho' he ſince would prove it by Miracles and Cures of Sick Perſons thus planged. 1. Do not lie for God. 2. Nor put that for a Cauſe that is none. How many Infants baptized when almoſt dead have recovered? 3. We are ſure of the contra<g ref="char:EOLhyphen"/>ry.
+<pb n="18" facs="tcp:101998:10"/>4. I know more learned Anabaptiſts than one, that tell us, <hi>Going down in the Water at any tir <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a cure for many Diſeaſes, the Blood run<g ref="char:EOLhyphen"/>ning to its Center.</hi>
+            </p>
+            <list>
+               <item>1. Where are their Wonders then?</item>
+               <item>2. Why do not their Phyſician plunge for Diſtempers?</item>
+               <item>3. Why are they ſo ſhy of Profeſſion of Faith generally in Froſt and Snow?</item>
+            </list>
+            <p>
+               <hi>Thirdly,</hi> Now I come to that which may oc<g ref="char:EOLhyphen"/>caſion the greateſt Wonder at the firſt hearing but is as eaſy to prove as any Propoſition before That if Plunging were a Duty, the Anabaptiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> practiſe it not.</p>
+            <p>Never knew I a greater Gulph between Prin<g ref="char:EOLhyphen"/>ciples and Practice than here: Did Chriſt indeed give them a Commiſſion to Plunge, and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they only Dip? There is a great difference be<g ref="char:EOLhyphen"/>tween theſe two, as I have proved elſewhere <hi>Dip thy Morſal with me in the Diſh.</hi> To plun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Butter or Vinegar many things we decent dip there, would turn the Stomacks of we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bred Perſons, and make them loath us as naſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Beaſts. <hi>Joſeph</hi>'s Coat was dipt in the Blood a Kid, not plunged ſure; there was not Blo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough for this, neither had it lookt as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coat of one whom ſome evil Beaſt had devour.</p>
+            <p>Now no more can be call'd Baptiſm, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is the Baptizer's Work? The Perſon di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goes up half way often, or more, is he ſo fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sebaptiſt? Is every part defiled by Sin, and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be mortified by Grace, as the Anabaptiſts ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:101998:10" rendition="simple:additions"/>and therefore all be baptized? What a Mutilati<g ref="char:EOLhyphen"/>on is here of this Sacrament; as of the other in the Church of <hi>Rome;</hi> Doth the Bread without Wine make a Sacrament?</p>
+            <p>I have heard of ſome in the Country, that have been plunged by putting Men into a Pond in a Sheet tied to both ends. Now I grant there was Plunging indeed, but there were two Bap<g ref="char:EOLhyphen"/>tizers by the way, and one only baptized; an Unpreſidenced Antiſcriptural Thing. If it be ask'd, <hi>Did</hi> John <hi>Sprinkle?</hi> That is not the Queſtion; he did not plunge. I know none that ſprinkle, which is, ſtrictly, throwing drops here and there. Can a bit of Bread, and a ſip of Wine be call'd a Supper?</p>
+            <p>A late Writer comes now to my Hand, who aſſerts what I do of <hi>John</hi>'s Baptiſm; I am glad to find him Harmonizing with me in this thing: we have both hit on many Phra<g ref="char:EOLhyphen"/>ſes, which might make ſome think I had plow<g ref="char:EOLhyphen"/>ed with his Heifer; no, my Notion were the Reſult of free Thoughts, not many Months ſince; and for this Book, I never ſaw it till all my for<g ref="char:EOLhyphen"/>mer Work was finiſh'd. This Author ſays that which deſerves Conſideration, <hi>That it is ſtrange, that if Baptiſm muſt be by Plunging, and this pra<g ref="char:EOLhyphen"/>ctiſed by</hi> John <hi>and the Apoſtles,</hi> How was it that this Ordinance had not taken its Name from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Bapto,</hi> which ſignifys to plunge or dip; but from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Baptizo,</hi> which never doth ſo. This Notion is, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifys, to Plunge or Dip, excluſive of all other ways of VVaſhing; ſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, its derivative, ſignifys otherways of VVaſhing, excluſive of Dipping or Plunging.
+<pb n="20" facs="tcp:101998:11"/>So he challengeth any Man to name one place in Scripture, where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies to Plunge. That derivitiives in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Greek</hi> loſes much of their force. VVe know in <hi>Latin</hi> words ending in <hi>ſco</hi> do, as <hi>Ferveſco</hi> from <hi>Ferveo.</hi> But I may further conſider this, if replied to. Tho' I de<g ref="char:EOLhyphen"/>clare, I ſhall not regard a <hi>Danvers</hi> or a <hi>Ruſſel.</hi> No, falſe Hiſtorians; a poor Plea to ſay, <hi>The Wife did it; no Pretenders to Philology</hi> and Phi<g ref="char:EOLhyphen"/>loſophy they underſtand not. I expect Mini<g ref="char:EOLhyphen"/>ſters and learned Ones: If Mr. <hi>W. Collins</hi> be the Man choſen, as ſome ſay, I ſhall be glad to fall into the hands of a Man of ſo much worth, ſe<g ref="char:EOLhyphen"/>riouſneſs and good temper, ſuch as I can better admire than imitate. If Mr. <hi>Steed,</hi> Mr. <hi>Sten<g ref="char:EOLhyphen"/>net,</hi> or Men of known Learning and of good Report, Sound in our unhappy Controverſies a<g ref="char:EOLhyphen"/>bout Doctrinals, and of untainted Loyalty, think fit to appear, I ſhall treat them with that Civility they deſerve; and I deſire that Intima<g ref="char:EOLhyphen"/>cy and dearneſs of Affection, that hath been between us, may continue; if not, it ſhall not be my fault. I pray them follow, if they ap<g ref="char:EOLhyphen"/>pear my Arguments, cloſely, and trouble me not with Authors, theirs or ours, I care not what. They ſay, my Enquiry is what <hi>John</hi> ſays, and what Men ought to ſay after him.</p>
+            <p>I hope, in time, to make it good at large, if I muſt do it, That <hi>John</hi> declares he plunged not, becauſe he ſaid he Baptized them, not Bapt: But what I have done already, is enough for once.</p>
+            <p>Now as Baptiſt, Baptize, and Baptiſm are de<g ref="char:EOLhyphen"/>rived from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Baptize,</hi> what woful Work is
+<pb n="21" facs="tcp:101998:11"/>here for Men to uſurp thoſe words to them<g ref="char:EOLhyphen"/>ſelves, when they belong to us. Now, ſay I, they being Plungers Vulgariter, as before, muſt have their Denomination from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Bapto).</hi> Then ſay I, they are Bapts, we are as Baptiſt; they Bapt, we Baptize; they Plunge, and have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bammiſm, we Pour (or Sprinkle) and ſo have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Baptiſm. They that underſtand the Greek Tongue, know I thus derive right in theſe new Names.</p>
+            <p>O my Dear VVord Baptiſt, have I redeemed thee out of the hands of them that have led thee Captive! VVelcom in thine own Place and Land.</p>
+            <p>I know ſome Plungers who are angry with their Brethren for calling themſelves Baptiſt, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, ſay they, Pedobaptiſt were againſt Baptiſm, or this Goſpel-Ordinance. A worſe thing is it to call one another Brother on this evil Practice, and not the beſt Men not ſo. Some of the late Men are almoſt Sick of ſuch Fooleries; who are more judicious, more humble, more ſober, and, I think, every way better Men and Chriſti<g ref="char:EOLhyphen"/>ons, and fitter for human Converſation than the old Men. Some of them would lift up Eyes to Heaven, if not Hands, walking in the Streets; who did this in the time of Chriſt? They would where I lived, in Prayer, Preaching, and Diſ<g ref="char:EOLhyphen"/>courſe, ſay, for Lord God, Lard Gad, <hi>&amp;c.</hi> Notes and Hourglaſſes, Black Cloaths, were Antichriſtian Things, as well as our Baptiſm and Singing of Pſalms, and Miniſters Mainte<g ref="char:EOLhyphen"/>nance. Bleſſed be God, many are much reco<g ref="char:EOLhyphen"/>vered. Oh! that the Leproſy were throughly
+<pb n="22" facs="tcp:101998:12"/>healed. I pray them that are for that glorious Goſnel Inſtitution of ſinging Pſalms, that mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſembles the eternal VVork in Heaven tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any one Duty does on Earth, to conſider often and urge it to their Friends that call it Balla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Singing. Whether Singing be not a Duty mentio<g ref="char:EOLhyphen"/>ned in the New Teſtament, diſtinct from Pray<g ref="char:EOLhyphen"/>er? Whether it muſt not be performed in ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way, or ſome other? but they do it in no other. Therefore let them in this, Hath God appoin<g ref="char:EOLhyphen"/>ted an impracticable Duty, to tell us the Church hath been in <hi>Babylon,</hi> and therefore the Harp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt be hung up. That Singing and Praying are all one in the N. Teſtament, and yet afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all ſay, The time is look'd for, when a Brother may be moved to ſtand forth and ſing a Hymn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> according to the ancient way, are ſtrange Aſſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tions and Contradictions. I know many well meaning Bapts, do believe the old Men more heavenly than theſe, becauſe many of them talk'd oftner of Religion; who, perhaps, could talk of little elſe, and not tolerably well of that But to return from this Digreſſion.</p>
+            <p>If it be ask'd, <hi>Is not Plunging practicable o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Principles? Or, what would I do if of their mind?</hi> Be not angry, ſeeing you ask the Queſti<g ref="char:EOLhyphen"/>on: I grant, I am not bound to plunge imme<g ref="char:EOLhyphen"/>diately with my own Hands, it is enough if i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be done mediately, by a certain Engin, what do we call it? where troubleſom Perſons are put who would willingly come out as ſoon as they can, and I would move it up and down by a Ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <pb n="23" facs="tcp:101998:12"/>
+            <p> How odious is it to ſee Men over-valuing things on Miſtakes? Theſe Men have made as great an Idol of their Baptiſm, as ſome Presbyterian Miniſters have of the Aſſemblies Catechiſm, that when they ſhould-expound Scripture accor<g ref="char:EOLhyphen"/>ding to the Example of <hi>Ezra,</hi> who read the Law, and gave the Senſe, and is, without all doubt, the beſt way of Preaching, better than Sermonizing it ſelf, They expound forſooth that Catechiſm when the Law and Prophets, the Goſpels and Epiſtles are never once expounded. Expound<g ref="char:EOLhyphen"/>ing in Bp. <hi>Hall</hi>'s way in his Paraphraſe; with ſome Obſervation after all in <hi>Willet</hi>'s way, and others, would ſooner be remembred, when the Chapters were afterwards read alone, or in the Family.</p>
+            <p>A ſuddain thought comes into my mind, <hi>Mat.</hi> 3.11. <hi>He that cometh after me, ſhall Baptize you with the Holy Ghoſt, and with Fire,</hi> Acts 2.17. That was pouring of the Spirit. It is evi<g ref="char:EOLhyphen"/>dent, that Baptizing ſignifys Pouring, or elſe the words are not true.</p>
+            <p>ANd now Mr <hi>Keith,</hi> you ſee I have once more appeared for you I know moſt of you go to the Church of <hi>England,</hi> ſome to the Anabaptiſt, Love one another; bleſs that God that hath pluck'd you all (as Brands) out of the Fire.</p>
+            <p>I know ſome of you deſpiſe the Anabaptiſt, becauſe of many of their ignorant Teachers.</p>
+            <p>I that know them, declare:</p>
+            <p>Firſt, That I queſtion not, the Biſhops have often ordained Men more Ignorant.</p>
+            <pb n="24" facs="tcp:101998:13" rendition="simple:additions"/>
+            <p> Secondly, All Storys of the Anabaptiſts are not true, If ſome hear a piece of Dunſtical Di<g ref="char:EOLhyphen"/>vinity, Oh! <hi>It is an Anabaptiſt</hi> preſently; when perhaps not ſo.</p>
+            <p>If it be ask'd, <hi>How I came to be ſo favourable in this Controverſy to them, who have been ſo keen against two ſorts of Men owning Infant Baptiſm;</hi> and ſo, my Brethren, I declare, I look on the Controverſy about Water Baptiſm, as nothing to that about <hi>Juſtification</hi> and <hi>Repentance.</hi> I look on a Calviniſtical Conformiſt, and a Cal<g ref="char:EOLhyphen"/>viniſtical Anabaptiſt, more as Brethren, than a Calviniſtical and an Arminian Conformiſt are ſo; or a Calviniſtical and Arminian Anabaptiſt ſo. I had rather any Man tore my Cloaths than my Body. I declare, I find not any ſuch Igno<g ref="char:EOLhyphen"/>rance among Anabaptiſt Preachers, that are un<g ref="char:EOLhyphen"/>learned according to the Cry of it. Mr. <hi>Benja<g ref="char:EOLhyphen"/>min Keach</hi> his late Book about the <hi>Change of the Sabbath,</hi> was approved of by the Arch-biſhop, who deſired to ſee him about it.</p>
+            <p>There are another ſort of Men, that make wo<g ref="char:EOLhyphen"/>ful Work abroad. I will divert you with a Co<g ref="char:EOLhyphen"/>mical Story I lately heard of two Men, that ſet up for great Expoſitors of Scripture without Learning; but I could never hear they were A<g ref="char:EOLhyphen"/>nabaptiſts, nor believe they were. They ap<g ref="char:EOLhyphen"/>plied themſelves to a worthy Divine, and told him of their Abilities this way; and deſired him to try them. He asked them, <hi>What Trades they were of?</hi> One reply'd, <hi>A Vintner;</hi> the other, <hi>A Taylor. I hope,</hi> ſaid he, <hi>I ſhall find you Men, though not Scholars, ſhall I not?</hi> Yes, Sir. <hi>I pray, Mr. Vintner, when you broach a Butt of
+<pb n="25" facs="tcp:101998:13" rendition="simple:additions"/>Wine, what Bottles do you uſe?</hi> My old ones. <hi>I pray, Mr. Taylor, when you patch an old Garment, do you not ſometimes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut a new <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce?</hi> Yes. Then ſaid he, <hi>I will prove, by Scripture you are no</hi> Men; <hi>for it is ſaid,</hi> No <hi>Man</hi> putreth new Wine into old Bottles; nor put<g ref="char:EOLhyphen"/>teth a new piece of Cloth on an old Garment.</p>
+            <p>Any may imagine how theſe Reverend Expoſitors were confounded.</p>
+            <p>But it may be ſome Reformed Quakers may ſay, <hi>Have you not one Word to ſay for our Infants, who cannot ſpeak for themſelves? Many Adult Perſons, now baptized, may have Infants, what ſhall they do?</hi>
+            </p>
+            <p n="1">1. It is certain, ſome Infants were elected, and ſhall be ſaved.</p>
+            <p n="2">2. None can be fit for the Kingdom of Glory, that were not fit for the Kingdom of Grace.</p>
+            <p n="3">3. It is evident, Children were once Members of the Church of God; who caſt them out? not God, not Chriſt ſure; none but Satan, and — did it:</p>
+            <p n="4">4. In the New Teſtament all is confirm'd, <hi>Of ſuch is the Kingdom of God.</hi> The <hi>Promiſe was to them;</hi> they are <hi>ſaid</hi> to be <hi>Holy.</hi> The Sign of the Covenant of Grace was changed, Circumciſion into Baptiſm. I need no more to know, who muſt be the Subjects of Baptiſm, whether Infants, than to know whether ſuch were o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Circumciſion.</p>
+            <p>I will ſhew one full place of Scripture for Infant Baptiſm: <hi>Be baptiz'd, every one of you; for the Promiſe is to you and to your Children, &amp;c.</hi>
+            </p>
+            <p n="5">
+               <pb n="26" facs="tcp:101998:14" rendition="simple:additions"/> 5. As Chriſt proved the Reſurrection of the Body to the Phariſees, not by p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Scripture ſpeaking of that matter, but by good Conſequence, ſo might we. And ſome Men may as well keep their Wive, and grown up Daughters, from one Sacrament, as their Infants from the other, for want of a plain Inſtituti<g ref="char:EOLhyphen"/>on or Command, or however they will phraſe it. Who cannot bring as plain Scripture as the afore-na<g ref="char:EOLhyphen"/>med, or Infant-Baptiſm, <hi>Acts</hi> 2.39.</p>
+            <p n="6">6. If Infants be not within the Church, they are without; and ſo no viſible way left for their Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I know ſome fiery Pedobaptiſts are angry with me for my Converſing with Anabaptiſts, and ſpeaking ſo favourably of them, and tell me what <hi>Character one they had,</hi> tho' now <hi>grown</hi> better — Are they grown better? I would we were too.</p>
+            <p>Let none of us make an Idol of Baptiſm: Som<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not bury unbaptized Children, yet read Prayer over Brother Drunkard, Brother Swearer, Brother Whoremonger, or Brother Athieſt. S me again, wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not admit any to the Lord's Table but Dipt Perſons which holy Mr. <hi>Jeſſy</hi> and honeſt <hi>John Bunnyan</hi> cou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not bear the thoughts of.</p>
+            <p>And now Mr. <hi>Keith</hi> and you Reformed Quaker gone to the Church of <hi>England,</hi> beware of ſuch the who lay Infant Baptiſm on the power of the Church Magiſtrates. Oh! So Dr. <hi>Stilling fleet</hi> when an E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtian in his <hi>Irenicum;</hi> ſo Dr. <hi>Hicks</hi> in a printed S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mon of his; ſo I fear D. <hi>Barlow,</hi> notwithſtanding <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Complemental Letter to M. <hi>Wills.</hi> D. <hi>Tully</hi> told
+<pb n="27" facs="tcp:101998:14" rendition="simple:additions"/>Friend of mine, That if <hi>D. B.</hi> had been ſearch'd to the bottom, he was no Friend to any Baptiſm. So I think politick <hi>Jeremy Taylor,</hi> in his <hi>Liberty of Propheſy<g ref="char:EOLhyphen"/>ing,</hi> written in the <hi>Interregnum,</hi> to get a Toleration for the Prelatical Party, as he on the Return of the King pleaded. He deſigned to ſet us together by the Ears, he ſays indeed. We have more Reaſon on our ſide, but the Anabaptiſts more Scripture. A learned Diſtinction! He by Playing with Witticiſms did the Anabaptiſts greater Service than they themſelves. He made many go down into the Water, and had almoſt me for one in my younger Days. Some among you deny Original Sin, and yet baptize Infants according to your Liturgy. <hi>For as much as all Men are born in ſin</hi> — And ſeeing this <hi>Child is Regenerate</hi> — What! that was never corrupted or defiled? But any thing for Tyth-piggs and Corn. <hi>Jer. Taylor</hi> was a notorious Diſſembler here, and a Subſcriber to the 39 Articles, tho' he denied Original Sin. The old Pelagians were not for Infant Baptiſm, nor could be; our new ones are indeed their Friends too much. You know, as well as I, many Anabaptiſt talk not now of <hi>Baal, Antichriſt, Idolatry,</hi> when ſpeaking of the Church of <hi>England.</hi> They acknowledge the Piety of many of that Communion: ſome occaſionly hear and commend their Preachers. For M. <hi>Pendarvis</hi> his <hi>Arrows ſhot a<g ref="char:EOLhyphen"/>gainſt</hi> Babylon. Mr. <hi>Brown</hi> his <hi>Jerubbad;</hi> with that place under the Title, <hi>If Raal be a God let him plead for himſelf; becauſe one hath pull'd down his Altar.</hi> Would this Man challenge the God of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to come forth? He ſays, He that heareth the Pa<g ref="char:EOLhyphen"/>riſh Prieſt heareth the Biſhop; he that heareth the Biſhop heareth the Pope: And (no doubt) he that heareth the Pope heareth the Devil; and ſay I, ſo he may, and never be the worſe Man; for when do Popes preach I pray?</p>
+            <pb n="28" facs="tcp:101998:15"/>
+            <p> I knew a great Man, and good Schollar, among the Bapts, that got ſo many Colds by Dipping, that he would walk by the River and pronounce the Form of Baptiſm, and appoint a Deacon as his Subſtitute to Dip (and I believe many unknown to me have done the like). Now, how could this Man ſay, <hi>I Baptize thee?</hi> The unlearned Colonel <hi>Danvers</hi> very mannerly tells us, That when we ſay, <hi>I Baptize thee</hi> — we lye, becauſe we Plunge not. Now, tho' I will have more manners than to ſay, this Man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied; yet I will ſay, he told a notorious untruth. Should not theſe Men, on their Principles, keep the Perſon under the Water (tho' they do it not) whil'ſt they uſe this Form. And if this Ba<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>miſm repreſent the Reſurrection of Chriſt, as they ſay, ſhould not the Perſons riſe out of the Water of themſelves? be Active, not Paſſive, in this thing.</p>
+            <p>But about my Charge againſt Plunging Women. If it be ſaid, Do not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs take meaſure of them, <hi>&amp;c?</hi> Yes, and Phyſicians and Surg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons do more, to expreſs all as modeſtly as I can: What therefore is neceſſary by the Law of God and Nature, muſt be done; but ſhould other Men do to them, what Phy<g ref="char:EOLhyphen"/>ſicians, Surgeons, and others muſt, they ſinn'd; eſpe<g ref="char:EOLhyphen"/>cially, if they did this openly.</p>
+            <p>A Friend of mine told me, how a Kinſwoman was invited to a Dipping; the Dipper and the Dipt were almoſt gone by the Stream: There was ſuch a Cry, the Woman was content with her old Baptiſm.</p>
+            <p>You ſee I have taken a Method with the Anabap<g ref="char:EOLhyphen"/>tiſt, none elſe hath done, that I know of: I therefore applied my ſelf to the learnedſt Pedobaptiſt in this City, who approved of what I have done. I com<g ref="char:EOLhyphen"/>municated theſe Things alſo to the moſt Learned, Or<g ref="char:EOLhyphen"/>thodox,
+<pb n="29" facs="tcp:101998:15" rendition="simple:additions"/>Pious and Well-tempered Anabaptiſts here, to know their Objections; I thank them for their Civility. If I hate their Cauſe, I certainly know, I love their Perſons. I ſuffer'd once about a Year and halfs Confinement (which coſt me about an hundred pounds) occaſioned by Viſiting a great Man of that Perſwaſion in Goal.</p>
+            <p>I have not now applied my ſelf directly to them, but to you Mr. <hi>Keith.</hi> My Work is not ſo much to pull down their Altars, as to ſtrengthen our own I hope this Conſideration may content them; if not, it doth me. Can we not manage a Controverſy among our ſelves, for fear of offending them? I owe them, nor any Man elſe, any ſuch Service. They, ſeme of them, can ſet on us directly, not only in Print, but in our Meetings.</p>
+            <p>I do declare, I intend not to anſwer every ſawey malepert, little Man, that ſhall ſet on me in a Coffee-Houſe, or elſewhere; but am ready to meet any wiſe Men, whether Scholars or not.</p>
+            <p>If any of your Clergy do, as ſome ſay, put a few drops on the Child's Face; tho' I will not deny it to be a Baptiſm, any more than a few drops of Wine and crumbs of Bre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d (tho' indecently and irregularly thus taken) to be the other Sacra<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or the Lord's Sup<g ref="char:EOLhyphen"/>per: Yet I take it to be a way unſuitable, and an un<g ref="char:EOLhyphen"/>warrantable Practice.</p>
+            <p>I cannot but wonder at Mr. <hi>Leſly,</hi> and many great Men of the Church of <hi>England,</hi> that often call our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>apts <hi>Baptists,</hi> it is a Scruple to me ſo far to Counte<g ref="char:EOLhyphen"/>nance their Error, and Cenſure our ſelves. I know I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove their Perſons much better than he. In the place
+<pb n="30" facs="tcp:101998:16" rendition="simple:additions"/>I have often call'd <hi>Noah</hi>'s Ark, are good-tempered, diſcreet, ſerious Bapts, who are dear to me, as I to them. They are the beſt Perſon to be Examples of Temper and Moderation I ever knew; they do not grow ſhve one of another, or refuſe occaſional Con<g ref="char:EOLhyphen"/>verſe; as ſome other Contenders do. I value them more than ſom others againſt whom I have written. Had two Men liv'd when Men were more devout than diſcreet, particularly in the Reign of Q. <hi>Elizabeth:</hi> A Queſtion may be made, whether they had not been burnt for old Heteticks?</p>
+            <p>I grant indeed, the Controverſy about Baptiſm is not ſo great, nor yet ſo ſmall as ſome make it. If we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, we err like them of Old, who give Infants the Lord's Supper: If they err, they err like <hi>Moſes,</hi> whom God ſought to ſlay, for not Circumci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng his Child But God is more Merciful to us than we one to ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>You young Men once again; take heed what you do: Were it only your contracting Colds and Pains in the Water, I would not ſo much care (for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you do notwithſtanding all Attempts to hide it); but beware of Heats, Libidinous Provocations there. But to the other matter.</p>
+            <p>If any ſuch ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. They lead down all into the Water. Yes, for Conveniency, not as a part of the Sacrament, but on a civil Account: For the Work and Element make the Sacrament. I ask, muſt the be plunged by you, that have gone to the Waſt o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> above it themſelves? How horrid is it by the way <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> baptize Cloaths? I think I can prove it ought to be done on the Skin. How odious would it be in us <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:101998:16" rendition="simple:additions"/>pour Water on the Cloth that covers the Child's Face?</p>
+            <p>By the way, ſome Anabaptiſts invite their Friends to Dine with them, and before them pray for their Infants, ſolemnly bleſs them, and dedicate them to God. I am glad they are come ſo far; but more of this and other things. if uny ſober Reply be made to me by any learned Divine; for no other, I declare muſt expect an Anſwer from me; let no ſuch trouble me with Authors. I ſpeak it without Vanity, and for good Reaſon. I have given away my Library elſe<g ref="char:EOLhyphen"/>where, to young C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndidates in the Miniſtry, and o<g ref="char:EOLhyphen"/>thers; and the Books I buy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere, I commonly diſpoſe the same way. I uſe not books; <hi>John</hi>'s Teſtimony is better than other Mens Notions. He that belie<g ref="char:EOLhyphen"/>veth <hi>John</hi> and <hi>Peter</hi> plunged, had need of almoſt a Tranſubſtantiation Faith.</p>
+            <p>They that tell us, how the Dutch (<hi>Mat.</hi> 3.1.) read <hi>John</hi> the Dooper. If they meant Dipper, they might not mean Plunger.</p>
+            <p>I believe ſome of thoſe love to make the World believe they underſtand Dutch, and I know not what Languages, that hardly well underſtand their Mo<g ref="char:EOLhyphen"/>ther-tongue.</p>
+            <p>Do they mean any more than <hi>John</hi> the Waſher? May not the word largely be to taken in that Lan<g ref="char:EOLhyphen"/>guage? Will any of them dare to ſay, who deny us Conſequences, That they find Plunging uſed once in Scripture, or required in plain word without a Con<g ref="char:EOLhyphen"/>ſequence. The know how their Seventh-Day Men torment them with their Common-Queſtion, <hi>Where
+<pb n="32" facs="tcp:101998:17"/>is your Inſtitution or plain Words? Why not they as well as the others.</hi>
+            </p>
+            <p>Let the Bants on their Notions, who will not have their Children baptized, becauſe they have no plain Word or Example (ſay they) for it in Scripture, let them (I ſay) go Home and tell their Wives and Daughters that are Women: <hi>You ſhall never more go to the Lord's Table: There is no Word or Example for it in Scripture, and I have read my Bible over many times. Nothing can be ſaid for this abominable thing but Conſe<g ref="char:EOLhyphen"/>quences of Man's Wiſdom: Remember what befell</hi> Na<g ref="char:EOLhyphen"/>dab <hi>and</hi> Abihu, <hi>when they offered ſtrange Fire, God com<g ref="char:EOLhyphen"/>manded them not; for my part, I am for keeping cloſe to the Word. You know how Infant-Sprinklers act contrary to</hi> Mat. 28.18. <hi>And they that abhor that</hi> Idol <hi>Infant-Baptiſm, have ſet up another contrary to the 20th</hi> Ver. Teaching them to obſerve all things whatſoever I have commanded you. <hi>So much: No more. Now Chriſt commanded, permitted not the devout Women that wept at the Croſs, and outdid</hi> Peter <hi>and the reſt in Zeal and Piety, to ſit down with him, where were Men Diſci<g ref="char:EOLhyphen"/>ples only; nor find we one Example after.</hi>
+            </p>
+            <p>For any Man to ſay, That Baptiſm muſt be of the whole Body, and not a part only; and yet be Bapti<g ref="char:EOLhyphen"/>zed about the Shoulders and Head only, is ſuch a Con<g ref="char:EOLhyphen"/>tradiction as is ſeldom found in any Party under Hea<g ref="char:EOLhyphen"/>ven, but among them: For as in the other Sacrament if the Bread were not Conſecrated, and adminiſtered to the Receiver as ſuch, but the Cup only, and the Receiver ſhould take the Bread in a common way; could he ſay he took the whole Sacrament, Bread and Wine? No. So here on their Principles: It hath been a Query a long time, what Name this Party
+<pb n="33" facs="tcp:101998:17"/>ſhould be called by; they call themſelves <hi>Baptiſt:</hi> A high Name, given to none but <hi>John</hi> the Baptiſt, and this honourable Name was given him not purely as an Adminiſtrator of this Ordinance, for then all ſuch might be ſo called. But we never read of <hi>Peter</hi> the Baptiſt, <hi>&amp;c.</hi> How much worſe is it for private Men, no Adminiſtrators, to take to themſelves this great Name, and all the while be none, being Plunged? <hi>John</hi> the Baptiſt was ſo called, as the firſt Adminiſtra<g ref="char:EOLhyphen"/>tor: Now what Name ſhall we give them? <hi>Anaba<g ref="char:EOLhyphen"/>ptiſt?</hi> No, they care not for it, diſowning being re<g ref="char:EOLhyphen"/>baptized, or baptized again; for ſo the word ſigni<g ref="char:EOLhyphen"/>fys. Mr. <hi>Tombs</hi> and others deſired the name <hi>Antipe<g ref="char:EOLhyphen"/>dobaptiſt:</hi> And Mr. <hi>Baxter</hi> well replied, <hi>It was a long word, and not eaſily pronounced by the Vulgar.</hi> Perhaps they would crack the Word a thouſand times to their Diſcredit and the Merriment of them that heard it.</p>
+            <p>Well then, I that love the Anabaptiſt more than moſt zealous Pedobaptiſt, have found out a word for them, that ſignifys, <hi>Men for Plunginig;</hi> it is but a Monoſyllable, eaſy to be pronounced, that is Bapts. I hope they that are Learned among them will not be angry for this Kindneſs (for indeed ſuch it is) and then I have enough. For Ignorant Men that cannot rea<g ref="char:EOLhyphen"/>ſon, but rave, I care not what they ſay who are no more to be regarded by Wiſe Men than Rab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons. I have too long replied to ſuch, but intend no more. Perhaps ſuch may ſay, I have Nicknamed them, and called them <hi>Bats,</hi> and then run on what a <hi>Bat</hi> is, and half of that ignorantly talkt of. Others may ſay, I have made them <hi>Owls.</hi> No, there are enough ſuch among us, as well as them. The Kindneſs I have hi<g ref="char:EOLhyphen"/>therto ſhewn them, as well as other friendly Adver<g ref="char:EOLhyphen"/>ſarys,
+<pb n="34" facs="tcp:101998:18"/>I intend the continuance of, if they will give me leave. But if the beſt of them refuſe any Acce<g ref="char:EOLhyphen"/>ptance of Civilities, I ſhall not impoſe on them, but be their Friend, if not their Companion. My Kind<g ref="char:EOLhyphen"/>neſs to them hath given Occaſion for a Story, <hi>That I had renounced my Baptiſm,</hi> an I <hi>were Plunged,</hi> by which ſome great, godly, good Friends of mine, became my Adverſaries. This is one reaſon, among others, why I was willing to appear againſt this great God-provo<g ref="char:EOLhyphen"/>king Sin, to Renounce a true Baptiſm for one not ſo.</p>
+            <p>But I never intend to write one word more upon this Subject, unleſs a Reply by any worthy Divine and Schollar of theirs make it neceſſary. If any ſuch ap<g ref="char:EOLhyphen"/>pear (and let them as ſoon as they pleaſe, why not they as well as I?) whil'ſt I can have Pen, Ink and Paper; I hope to vindicate that righteous Cauſe I have now eſpouſed.</p>
+            <p>And for a Cloſe of all, Dear Mr. <hi>Keith,</hi> I am hear<g ref="char:EOLhyphen"/>tily ſorry any Diſſenters (eſpecially Presbyterians) ſhould ſo ſeverely Cenſure you for your Compliance with the Church of <hi>England.</hi> You know, you went between me and the famous Author of the <hi>Snake in the Graſs;</hi> ſent me his Letters, and him mine, about Li<g ref="char:EOLhyphen"/>turgies and Ceremonies, printed with his conſent in my <hi>Apology for Congregational Divines;</hi> nothing more clean on both Hands. You then ſeemed to be of my mind, if you are otherwiſe perſwaded, I am not, tho' I was glad to fall into the hand of one of the moſt ac<g ref="char:EOLhyphen"/>curate devout Advocates for that Cauſe, who made the beſt of it. If you have left me, and are now of his mind, I dare not Cenſure another Man's Servant. I hope you do nothing againſt your Conſcience: I am
+<pb n="35" facs="tcp:101998:18" rendition="simple:additions"/>not ſo ſure you Sin in your Compliance with the Church of <hi>England</hi> in her Liturgies, Ceremonies and Sacraments, as I am ſure ſome of my Brethren Sin in their ungodly Cenſures of you.</p>
+            <p>I do not much Care what Party hath you, ſeeing you have leſt the Quakers. You have left them that had the Plague Sores on them, and gone among them that may be Itchy or Louſy. Many ſay, you being ſuch a little Man, will look very ugly in a Surplice. I tell them pleaſantly, you will then but look like all the reſt that wear it: For perhaps no Man looks o<g ref="char:EOLhyphen"/>therwiſe that ever puts it on. If ever you appear a<g ref="char:EOLhyphen"/>gainſt us (as ſome fear) I pray Anſwer my Arguments in my forementioned Epiſtle to Mr. L. If you thus do, you may ſee <hi>A Third Friendly Epiſtle to Mr.</hi> George Keith, <hi>and the Reformed Quakers, by</hi> Trepidantiam Malleus: As Friendly as the Letters to the aforena<g ref="char:EOLhyphen"/>med great Man. You know how many plead <hi>Plunging</hi> from your Fonts, and Orders to <hi>Plunge Chil<g ref="char:EOLhyphen"/>dren, and not Sprinkle, but in caſe of Neceſſity.</hi> Should I Anſwer this at large, I ſhould make thoſe Reflections as are not now convenient. Biſhop <hi>Laud</hi> was the Death of many Infants by this barbarous ungodly Im<g ref="char:EOLhyphen"/>polition.</p>
+            <p>Whereas ſeveral Bapts ſay, when we tell them the Tendency of imbracing fair Women, <hi>We ſee what you are inclined too: We fear not</hi> — When <hi>David,</hi> from the top of his Houſe, ſaw <hi>Bathſheba</hi> bath<g ref="char:EOLhyphen"/>ing herſelf, perhaps as well Cloathed as ſome of their baptized Women are, though hè a Man after God's own Heart, and ſo in as little Danger as any Man; yet we <hi>know</hi> the woſul Concluſion. How much greater had the Temptation been, had <hi>David</hi> had this
+<pb n="36" facs="tcp:101998:19" rendition="simple:additions"/>Woman in his Arms in that Water. If they thus dare to talk of Pedobaptiſt as leſs Chaſt than them<g ref="char:EOLhyphen"/>ſelves, Experience proves the contrary: <hi>He that lock<g ref="char:EOLhyphen"/>eth on a Woman, and Luſteth after her</hi> (by Land or Wa<g ref="char:EOLhyphen"/>ter, it is all one) <hi>be committeth Adultery with her in his Heart.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <head type="sub">To my Dear Friends the <hi>London</hi> BAPTS.</head>
+            <p>IF I have given you any juſt Occaſion of Offence by any Words too ſharp, I beg your Pardon; and I know you are reconci<g ref="char:EOLhyphen"/>lable Men, as you have found me to be ſo. I own your worthy Preachers before named, and ohers, to be Miniſters of Chriſt and of the Goſpel. If any of our baptized Belie<g ref="char:EOLhyphen"/>vers whether Conformiſts or Diſſenters, Miniſters or People, be diſpleaſed for my ſaying ſo; I wiſh them more Charity, and you more Wiſdom, and Light in our Con<g ref="char:EOLhyphen"/>troverſies. No Baptiſts among us hates Plunging more, and yet loves the Plungers (falſly ſo called) better than</p>
+            <closer>
+               <signed>Sam. Reconcilable.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
